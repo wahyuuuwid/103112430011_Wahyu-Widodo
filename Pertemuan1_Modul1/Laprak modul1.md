@@ -198,7 +198,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output1.png)
+![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output/output1.png)
 
 unguided 1 menjelaskan melakukan output dengan operasi dasar aritmatika
 
@@ -253,7 +253,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output2.png)
+![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output/output2.png)
 
 unguided 2 menjelaskan bagaimana cara mengubah bilangan integer ke string
 
@@ -289,7 +289,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output3.png)
+![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output/output3.png)
 
 unguided 3 menjelaskan cara mirror bilangan integer yaitu dengan cara perulangan di balik.
 
