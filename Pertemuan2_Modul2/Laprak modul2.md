@@ -263,7 +263,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output/output1.png)
+![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul2/output/output1.png)
 
 program ini menjelaskan bagaimana array 2 dimensi digunakan untuk menghitung penjumlahan, pengurangan, dan perkalian matriks ukuran 3×3. Terdapat 3 perulangan yang pertama untuk penjumlahan kedua pengurangan dan perkalian. untuk Penjumlahan Matriks Setiap elemen C[i][j] dihitung dari A[i][j] + B[i][j]. Lalu untuk Pengurangan Matriks Setiap elemen C[i][j] dihitung dari A[i][j] - B[i][j]. Dan untuk Perkalian Matriks Setiap elemen C[i][j] dihitung dengan rumus: C[i][j] = A[i][0]*B[0][j] + A[i][1]*B[1][j] + A[i][2]*B[2][j];
 
@@ -303,7 +303,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output/output2.png)
+![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul2/output/output2.png)
 
 program ini memperlihatkan bahwa baik pointer maupun reference dapat digunakan untuk memodifikasi nilai variabel asli di luar fungsi, hanya berbeda di cara pemanggilannya. Terdapat fungsi tukarPointer(int *a, int *b, int *c) menggunakan pointer. Parameter menerima alamat variabel (&x, &y, &z), lalu nilai di alamat tersebut diubah dengan dereferensi (*a, *b, *c). Dan Fungsi tukarReference(int &a, int &b, int &c) menggunakan reference. Parameter langsung menjadi alias variabel aslinya, sehingga perubahan otomatis memengaruhi variabel asli. Logika penukaran: nilai a dipindahkan ke temp, lalu a diganti nilai b, b diganti nilai c, dan c diisi dengan nilai awal a (di temp). Lalu Pada fungsi main, nilai awal x=1, y=2, z=3. Setelah tukarPointer, nilai berubah menjadi x=2, y=3, z=1. Setelah tukarReference, nilai kembali bergeser menjadi x=3, y=1, z=2.
 
@@ -387,10 +387,10 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output/output3-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul2/output/output3-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul1/output/output3-2.png)
+![Screenshot Output Unguided 1_2](https://github.com/wahyuuuwid/103112430011_Wahyu-Widodo/blob/main/Pertemuan1_Modul2/output/output3-2.png)
 
 program ini bagaimana array dapat digunakan untuk menyimpan data, lalu diolah melalui function (mengembalikan nilai) dan prosedur (menampilkan hasil langsung) dalam menu.
 
